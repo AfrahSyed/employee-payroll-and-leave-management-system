@@ -20,7 +20,7 @@ The **Employee Payroll and Leave Management System** streamlines key HR function
 | Layer        | Technology     |
 |--------------|----------------|
 | Frontend     | React.js       |
-| Backend APIs | FastAPI (Python), Node.js (Express) |
+| Backend APIs | FastAPI (Python), Node.js |
 | Database     | MongoDB        |
 
 ---
